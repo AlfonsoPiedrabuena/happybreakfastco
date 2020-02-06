@@ -1,6 +1,28 @@
-h1{
-	font-size:40px;
-	color: blue;
+
+body{
+	background:red;
 }
 
+h1{
+	font-family:"Arial";
+	font-weight:regular;
+	font-size:36 px;
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+	padding:10px;
+}
 
+p{
+	font-family:"Arial";
+	width:100%;
+	text align: center;
+	margin: 20px auto;
+	padding:10px;
+}
+
+#wrapper{
+	border:1px solid #000;
+	width:60%;
+	margin:0 auto;
+}
