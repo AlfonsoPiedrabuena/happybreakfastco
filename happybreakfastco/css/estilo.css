@@ -2,7 +2,7 @@ body{
 	background:red;
 }
 
-h1 {
+h1{
 	font-family:"Arial";
 	font-weight:regular;
 	font-size:36 px;
@@ -12,6 +12,7 @@ h1 {
 }
 
 p{
+	font-family:"Arial";
 	width:40%;
 	text align: center;
 	margin: 0 auto;
